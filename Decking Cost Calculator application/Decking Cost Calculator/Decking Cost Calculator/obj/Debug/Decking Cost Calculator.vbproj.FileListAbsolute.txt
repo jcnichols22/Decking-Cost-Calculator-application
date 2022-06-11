@@ -1,0 +1,12 @@
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.AssemblyReference.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.frmDecking.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking_Cost_Calculator.Resources.resources
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.GenerateResource.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe.config
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.pdb
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\bin\Debug\Decking Cost Calculator.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.exe
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.xml
+C:\Users\jcnic\Documents\School\CSC 139 Visual BASIC Programming\Decking Cost Calculator application\Decking Cost Calculator\Decking Cost Calculator\obj\Debug\Decking Cost Calculator.pdb
